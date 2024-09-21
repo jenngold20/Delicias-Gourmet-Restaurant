@@ -1,4 +1,4 @@
-# Delicias Gourmet - Página Web
+# 🍽️ Delicias Gourmet - Página Web
 
 ## Descripción
 Delicias Gourmet es una página web para un restaurante gourmet que muestra el menú, permite hacer reservaciones y proporciona información de contacto. La página está diseñada para ser atractiva y fácil de usar, con un diseño responsivo que se adapta a diferentes tamaños de pantalla.
@@ -10,7 +10,7 @@ Delicias Gourmet es una página web para un restaurante gourmet que muestra el m
 - Diseño responsivo para móviles y escritorio
 - Integración de redes sociales
 
-## Tecnologías Utilizadas
+## 🛠️ Tecnologías: HTML5, CSS3, JavaScript, Font Awesome, Google Fonts
 - HTML5
 - CSS3 (con Flexbox para el diseño)
 - JavaScript (para la funcionalidad del formulario de reserva)
